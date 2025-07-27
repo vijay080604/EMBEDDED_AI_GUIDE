@@ -1,0 +1,11 @@
+This PDF serves as a beginner-friendly guide for getting started with Embedded AI using platforms like the XIAO ESP32S3 Sense and tools such as Arduino IDE, Python, and Edge Impulse CLI. It includes:
+
+🔧 A curated list of popular embedded AI kits and boards
+
+📲 Step-by-step setup for Arduino IDE, Python, Node.js, and Edge Impulse
+
+💡 Basics of strapping pins, power supply, and sensor interfacing
+
+🧠 Introductory hands-on exercises (e.g., Blink LED, Push Button) with code
+
+⚡ Concepts like pull-up/down resistors and common debugging tips
